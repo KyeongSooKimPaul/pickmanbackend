@@ -11,4 +11,4 @@ const createBankdataResolver = (
   return Bankdata.create({ userId, seller, wholesaler, bankcode, bankaccount, bankowner});
 };
 
-export default createBankdataResolver;
+export default createBankdataResolver; 
