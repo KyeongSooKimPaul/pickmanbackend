@@ -1,0 +1,12 @@
+{ 
+    "development": 
+    { 
+        "username": "root", 
+        "password": "1234", 
+        "database": "gsd", 
+        "host": "localhost", 
+        "dialect": "mysql", 
+        "operatorAliases" : false 
+    } 
+}
+
